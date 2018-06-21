@@ -2,7 +2,8 @@
 # vim: set expandtab sw=4 ts=4 sts=4:
 #
 # phpMyAdmin web site
-#
+#d
+fjjh
 # Copyright (C) 2008 - 2016 Michal Cihar <michal@cihar.com>
 #
 # This program is free software; you can redistribute it and/or modify
